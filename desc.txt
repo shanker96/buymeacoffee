@@ -1,0 +1,11 @@
+- Developed a full-stack BuyMeACoffee/Patreon clone using TypeScript, Next.js (leveraging server components and server actions), MongoDB, and Cryptomus for comprehensive payment processing (supporting both cryptocurrency and credit card transactions).
+- Enabled extensive user profile customization by allowing users to edit their display name, username, custom URL, and upload cover photos and avatars.
+- Utilized the latest Next.js features to enhance server-side rendering and improve application performance and user experience.
+- Integrated MongoDB for robust data storage and management of user profiles and transactions, ensuring data integrity and scalability.
+- Implemented secure and efficient payment processing with Cryptomus, supporting a variety of payment methods including cryptocurrencies and traditional credit cards.
+- Focused on user experience and interface design, creating intuitive and easy-to-navigate pages for profile management and donation processes.
+- Ensured best practices in full-stack development, incorporating modern development tools and frameworks to create a scalable and maintainable application.
+
+ToDo:
+    - Cryptomus is not configured for API.
+    - Add button only for credit card and integrate with Stripe
